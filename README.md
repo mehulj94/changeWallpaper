@@ -1,3 +1,4 @@
+[![python](https://img.shields.io/badge/python-2.7-blue.svg)](https://www.python.org/downloads/)
 # changeWallpaper
 Simple python scripts to change wallpaper in windows. The script will pickup wallpaper from local folder.
 
