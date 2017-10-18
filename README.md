@@ -1,5 +1,5 @@
 # changeWallpaper
-Simple python scripts to change wallpaper in windows.
+Simple python scripts to change wallpaper in windows. The script will pickup wallpaper from local folder.
 
 # Setup
 * Create a folder where all the wallpaper will be stored. This folder will also store "wallpaper.config" file if V2 script is used.
